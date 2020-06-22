@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM arm32v7/alpine:latest
 
 WORKDIR /redis-commander
 
